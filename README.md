@@ -1,1 +1,12 @@
 # Cestina-vyuka
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Moje česká aplikace</title>
+  </head>
+  <body>
+    <h1>Téma: Škola</h1>
+    <button>Vstup do školy</button>
+    <button>Vstup do třídy</button>
+  </body>
+</html>
